@@ -30,13 +30,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.jpeg)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [click](https://github.com/yamadaMk12/faq-accordion)
+- Live Site URL: [click](https://yamadamk12.github.io/faq-accordion)
 
 ## My process
 
